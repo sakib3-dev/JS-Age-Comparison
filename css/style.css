@@ -44,3 +44,9 @@ body {
     color: blueviolet;
 }
 
+.contain button {
+    font-size: 18px;
+    font-weight: 400;
+    background: transparent;
+    border-redius: 30px;
+}
