@@ -45,8 +45,8 @@ body {
 }
 
 .contain button {
-    font-size: 18px;
-    font-weight: 400;
-    background: transparent;
-    border-redius: 30px;
+	font-size: 28px;
+	font-weight: 400;
+	background: transparent;
+	border-radius: 30px;
 }
